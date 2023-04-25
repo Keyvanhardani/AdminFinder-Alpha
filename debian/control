@@ -1,0 +1,13 @@
+Source: adminfinder-alpha
+Section: utils
+Priority: optional
+Maintainer: Keyvan Hardani <hardani@hotmail.de>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/Keyvanhardani/AdminFinder-Alpha
+
+Package: adminfinder-alpha
+Architecture: all
+Depends: ${misc:Depends}, python3, python3-requests, python3-cloudscraper, python3-termcolor
+Description: AdminFinder Alpha
+A Python-based tool designed to help users search for and locate admin panels on websites.

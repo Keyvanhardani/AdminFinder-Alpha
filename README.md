@@ -50,3 +50,6 @@ cloudscraper
 termcolor
 
 These dependencies can be installed by running pip install -r requirements.txt
+
+## Debian 
+adminfinder -u <URL> -f <admin_paths_file> [-b]
