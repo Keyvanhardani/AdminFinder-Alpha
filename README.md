@@ -6,9 +6,9 @@ AdminFinder Alpha is a Python-based tool designed to help users search for and l
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/adminfinder-alpha.git
+git clone https://github.com/Keyvanhardani/Adminfinder-Alpha.git
 
-cd adminfinder-alpha
+cd Adminfinder-Alpha
 
 Install the required dependencies:
 
