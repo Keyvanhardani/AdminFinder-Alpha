@@ -28,6 +28,7 @@ version = colored("Version 1.0.1 by Keyvan Hardani (keyvan@hardani.de)", "red")
 
 BANNER = banner_top + version + banner_bottom
 # Set up command-line arguments
+print(BANNER)
 parser = argparse.ArgumentParser(description="Search for an admin panel on a website.")
 parser.add_argument("-u", "--url", required=True, help="The URL of the website to search.")
 parser.add_argument("-b", "--bypass", action="store_true", help="Bypass Cloudflare protection.")
@@ -58,7 +59,6 @@ def search_admin_panel(url, bypass, admin_paths_file):
 
     # Loop through admin panel paths and file extensions
     found = False
-    print(BANNER)
     for path in admin_paths:
         admin_url = url + path
         response = session.get(admin_url)
