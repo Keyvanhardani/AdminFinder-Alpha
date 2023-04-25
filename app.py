@@ -24,7 +24,7 @@ banner_top = """
 banner_bottom = """
             """
 
-version = colored("Version 1.2.1 by Keyvan Hardani (keyvan@hardani.de)", "red")
+version = colored("Version 1.0.1 by Keyvan Hardani (keyvan@hardani.de)", "red")
 
 BANNER = banner_top + version + banner_bottom
 # Set up command-line arguments
