@@ -1,0 +1,5 @@
+requests
+argparse
+logging
+cloudscraper
+termcolor
