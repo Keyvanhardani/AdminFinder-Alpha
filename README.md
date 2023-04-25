@@ -53,3 +53,23 @@ These dependencies can be installed by running pip install -r requirements.txt
 
 ## Debian 
 adminfinder -u <URL> -f <admin_paths_file> [-b]
+
+## Windows
+
+AdminFinder-Alpha for Windows is a powerful and user-friendly tool designed to help website administrators, security researchers, and penetration testers discover admin panels and login pages. With its efficient and accurate scanning capabilities, AdminFinder-Alpha streamlines the process of identifying potential points of entry to secure or test web applications.
+
+Key features:
+
+1.  Easy-to-use interface: AdminFinder-Alpha is designed with usability in mind, allowing users to easily set up and initiate scans without any hassle.
+
+2.  Extensive scanning techniques: AdminFinder-Alpha uses advanced algorithms to perform comprehensive scans of websites, efficiently identifying admin panels and login pages.
+
+3.  Customizable scan parameters: Users can tailor the scanning process according to their requirements, adjusting the depth and scope of the scans.
+
+4.  Supports multiple platforms: AdminFinder-Alpha is built to work seamlessly on various Windows operating systems, ensuring compatibility and optimal performance across different devices.
+
+5.  Regular updates: AdminFinder-Alpha is continuously updated to ensure it stays current with the latest security practices and web technologies.
+
+6.  Comprehensive documentation and support: The tool comes with a detailed user guide and dedicated support to help users get the most out of AdminFinder-Alpha.
+
+Discover and secure admin panels with ease using AdminFinder-Alpha for Windows. Download now and enhance the security of your web applications today!
