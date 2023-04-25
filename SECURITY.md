@@ -6,7 +6,7 @@ The following versions of AdminFinder Alpha are currently being supported with s
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.2.1   | :white_check_mark: |
+| 1.0.1   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
