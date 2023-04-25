@@ -7,10 +7,13 @@ AdminFinder Alpha is a Python-based tool designed to help users search for and l
 1. Clone the repository:
 
 git clone https://github.com/yourusername/adminfinder-alpha.git
+
 cd adminfinder-alpha
+
 Install the required dependencies:
 
 pip install -r requirements.txt
+
 ## Usage
 Prepare a file containing a list of admin panel paths (one per line).
 Run the script from the command line with the following arguments:
@@ -19,9 +22,13 @@ Run the script from the command line with the following arguments:
 python app.py -u <URL> -f <admin_paths_file> [-b]
 
 ## Arguments
+  
 -u or --url: The URL of the website to search.
+  
 -f or --file: The path of the file containing admin panel paths.
+  
 -b or --bypass (optional): Include this flag to bypass Cloudflare protection.
+  
 Example
 
 python app.py -u https://example.com -f paths.txt -b
@@ -33,9 +40,13 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 The following Python packages are required for this project:
 
 requests
+  
 argparse
+  
 logging
+  
 cloudscraper
+  
 termcolor
 
 These dependencies can be installed by running pip install -r requirements.txt
