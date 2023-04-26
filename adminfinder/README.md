@@ -22,7 +22,7 @@ Run the script from the command line with the following arguments:
 python app.py -u <URL> -f <admin_paths_file> [-b]
 
 *   admin_paths_file = paths.txt   // file included in this script, you can use it. 
-*   python app.py -u https://google.com -f paths.txt
+*   python app.py -u https://google.com -f paths.text
 
 ## Arguments
   
