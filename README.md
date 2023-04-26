@@ -6,11 +6,11 @@ AdminFinder Alpha is a Python-based tool designed to help users search for and l
 
 * Python
 
-# pip install adminfinder
+pip install adminfinder
 
-# pip3 install adminfinder
+pip3 install adminfinder
 
-# python -m pip install adminfinder
+python -m pip install adminfinder
 
 or
 
